@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+.ipynb_checkpoints/
+.temp/
+__pycache__/
+*.py[cod]
+
+/chroma_store/
+/data/bookstore/
+
+*.sqlite3
+*.db
+
+/.venv/
+/venv/
