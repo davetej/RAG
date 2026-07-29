@@ -1,0 +1,242 @@
+Title: Bhagavad Gita Knowledge Dataset
+
+Overview:
+The Bhagavad Gita, commonly known as the Gita, is a 700-verse Sanskrit scripture that forms a part of the Bhishma Parva of the Mahabharata (Book 6). It is presented as a dialogue between Prince Arjuna and Lord Krishna on the battlefield of Kurukshetra before the beginning of the great war between the Pandavas and Kauravas.
+
+Historical Context:
+Name: Bhagavad Gita (Song of the Lord)
+Original Language: Sanskrit
+Source Text: Mahabharata
+Section: Bhishma Parva (Book 6)
+Chapters: 18
+Traditional Verse Count: 700 verses
+Setting: Battlefield of Kurukshetra
+Author Tradition: Traditionally attributed to Sage Vyasa as part of the Mahabharata
+Composition Period: Scholars have different views; generally estimated between the last centuries BCE and early centuries CE.
+
+Purpose:
+The Bhagavad Gita explores questions about duty, ethics, human nature, the self, God, action, knowledge, devotion, and liberation.
+
+Main Characters:
+
+1. Arjuna:
+- One of the five Pandava brothers.
+- A highly skilled warrior and archer.
+- Faces a moral and emotional crisis before fighting against his own relatives, teachers, and friends.
+- Seeks guidance from Krishna regarding duty and righteousness.
+
+2. Lord Krishna:
+- Arjuna's charioteer and spiritual teacher.
+- Reveals teachings about Dharma, Karma Yoga, Jnana Yoga, Bhakti Yoga, meditation, and liberation.
+- Is presented as a divine manifestation and Supreme Being in many Hindu traditions.
+
+3. Sanjaya:
+- Advisor and charioteer of King Dhritarashtra.
+- Receives divine vision from Sage Vyasa to witness and narrate the events of the Kurukshetra battlefield.
+
+4. Dhritarashtra:
+- King of Hastinapura.
+- Father of the Kauravas.
+- Blind from birth and concerned about the outcome of the war.
+
+5. Pandavas:
+- Five brothers: Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+- Represent the side associated with Dharma in the Mahabharata.
+
+6. Kauravas:
+- The hundred sons of Dhritarashtra.
+- Led by Duryodhana.
+- Opponents of the Pandavas in the Kurukshetra war.
+
+
+Core Philosophical Teachings:
+
+1. Dharma (Duty):
+Dharma refers to righteous duty, moral responsibility, and actions aligned with justice and harmony.
+Krishna teaches Arjuna that he must perform his duty as a warrior while avoiding selfish attachment.
+
+2. Karma Yoga (Path of Selfless Action):
+Karma Yoga teaches performing one's responsibilities without attachment to personal outcomes.
+The focus should be on sincere action rather than the desire for rewards.
+
+Key Principle:
+One should focus on performing the right action and not become controlled by attachment to results.
+
+3. Jnana Yoga (Path of Knowledge):
+Jnana Yoga emphasizes understanding the true nature of the self.
+The Atman (soul) is described as eternal, while the physical body is temporary.
+
+4. Bhakti Yoga (Path of Devotion):
+Bhakti Yoga teaches devotion, love, and surrender to the divine as a path toward spiritual realization.
+
+5. Dhyana Yoga (Path of Meditation):
+The Gita explains meditation, discipline, concentration, and control of the mind.
+
+
+Important Concepts:
+
+Atman:
+The eternal self or soul that is distinct from the temporary physical body.
+
+Brahman:
+The ultimate reality or universal consciousness described in Vedantic philosophy.
+
+Dharma:
+The principle of righteousness, duty, and moral order.
+
+Karma:
+The principle that actions have consequences.
+
+Moksha:
+Liberation from the cycle of birth and death and realization of the ultimate truth.
+
+Yoga:
+A spiritual discipline or path for achieving union with higher consciousness.
+
+Gunas:
+The three qualities of material nature:
+- Sattva: Purity, knowledge, harmony
+- Rajas: Activity, desire, passion
+- Tamas: Inertia, ignorance, darkness
+
+
+The 18 Chapters of Bhagavad Gita:
+
+Chapter 1:
+Arjuna Vishada Yoga (The Yoga of Arjuna's Grief)
+- Arjuna observes both armies and becomes overwhelmed by sorrow and moral confusion.
+
+Chapter 2:
+Sankhya Yoga (The Yoga of Knowledge)
+- Krishna explains the immortality of the soul and introduces the concept of selfless duty.
+
+Chapter 3:
+Karma Yoga (The Yoga of Action)
+- Explains the importance of performing duty without attachment.
+
+Chapter 4:
+Jnana Karma Sannyasa Yoga (Knowledge and Renunciation of Action)
+- Explains divine knowledge, spiritual wisdom, and Krishna's teachings about incarnation.
+
+Chapter 5:
+Karma Sannyasa Yoga (The Yoga of Renunciation)
+- Discusses the relationship between action and renunciation.
+
+Chapter 6:
+Dhyana Yoga (The Yoga of Meditation)
+- Explains meditation, concentration, and controlling the mind.
+
+Chapter 7:
+Jnana Vijnana Yoga (Knowledge and Realization)
+- Explains knowledge of the divine and understanding Krishna's nature.
+
+Chapter 8:
+Akshara Brahma Yoga (The Yoga of the Imperishable Absolute)
+- Discusses Brahman, remembrance of God, and the nature of existence.
+
+Chapter 9:
+Raja Vidya Raja Guhya Yoga (The Yoga of Royal Knowledge and Secret)
+- Describes the highest spiritual knowledge and devotion.
+
+Chapter 10:
+Vibhuti Yoga (The Yoga of Divine Manifestations)
+- Describes Krishna's divine qualities and manifestations throughout creation.
+
+Chapter 11:
+Vishvarupa Darshana Yoga (The Vision of the Universal Form)
+- Krishna reveals his universal cosmic form to Arjuna.
+
+Chapter 12:
+Bhakti Yoga (The Yoga of Devotion)
+- Explains devotion as a direct path toward spiritual realization.
+
+Chapter 13:
+Kshetra Kshetrajna Vibhaga Yoga (The Field and Knower of the Field)
+- Explains the difference between the body and the conscious self.
+
+Chapter 14:
+Gunatraya Vibhaga Yoga (The Division of Three Qualities)
+- Explains sattva, rajas, and tamas.
+
+Chapter 15:
+Purushottama Yoga (The Yoga of the Supreme Person)
+- Explains the relationship between the individual self and the Supreme Being.
+
+Chapter 16:
+Daivasura Sampad Vibhaga Yoga (Divine and Demonic Qualities)
+- Discusses positive and negative qualities in human behavior.
+
+Chapter 17:
+Shraddhatraya Vibhaga Yoga (Three Types of Faith)
+- Explains different forms of faith influenced by the three gunas.
+
+Chapter 18:
+Moksha Sannyasa Yoga (The Yoga of Liberation and Renunciation)
+- Summarizes Krishna's teachings about duty, knowledge, devotion, and liberation.
+
+
+Major Themes:
+
+1. Duty and Responsibility:
+The importance of performing one's responsibilities according to Dharma.
+
+2. Self-Control:
+Managing desires, emotions, and the mind.
+
+3. Detachment:
+Performing actions without being controlled by attachment to results.
+
+4. Spiritual Knowledge:
+Understanding the difference between the temporary body and eternal self.
+
+5. Devotion:
+Developing a relationship with the divine.
+
+6. Liberation:
+Achieving freedom from ignorance and the cycle of rebirth.
+
+
+Important Verses:
+
+Chapter 2, Verse 47:
+Krishna teaches the principle of performing one's duty without attachment to the results.
+
+Chapter 2, Verse 20:
+The soul is described as eternal and not destroyed with the destruction of the body.
+
+Chapter 4, Verse 7-8:
+Krishna explains the purpose of divine incarnation for protecting Dharma.
+
+Chapter 18, Verse 66:
+Krishna teaches surrender to the divine as the highest path toward liberation.
+
+
+Major Commentators:
+
+Adi Shankaracharya:
+- Associated with Advaita Vedanta philosophy.
+- Interprets the Gita through the perspective of non-dualism.
+
+Ramanujacharya:
+- Associated with Vishishtadvaita Vedanta philosophy.
+- Emphasizes devotion and the relationship between individual souls and God.
+
+Madhvacharya:
+- Associated with Dvaita Vedanta philosophy.
+- Emphasizes distinction between individual souls and the Supreme Being.
+
+
+Applications of This Dataset:
+
+This dataset can be used for:
+- Bhagavad Gita question answering systems
+- Retrieval Augmented Generation (RAG) experiments
+- Semantic search applications
+- Educational AI assistants
+- Knowledge graph creation
+- Sanskrit philosophy research tools
+- LLM fine-tuning experiments
+
+
+Keywords:
+Bhagavad Gita, Gita, Krishna, Arjuna, Mahabharata, Dharma, Karma Yoga, Bhakti Yoga, Jnana Yoga, Moksha, Atman, Brahman, Yoga, Kurukshetra, Hindu Philosophy
