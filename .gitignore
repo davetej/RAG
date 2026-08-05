@@ -8,6 +8,7 @@ __pycache__/
 
 /chroma_store/
 /data/bookstore/
+/vectorstore/
 
 *.sqlite3
 *.db

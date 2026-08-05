@@ -1,4 +1,5 @@
 from langchain_text_splitters import RecursiveCharacterTextSplitter
+from semanticChunking import init_semantic_chunker
 from config import AppSettings
 
 def split_documents(documents,settings:AppSettings)->list:
@@ -7,3 +8,9 @@ def split_documents(documents,settings:AppSettings)->list:
         chunk_overlap=settings.chunk_overlap,
     )
     return splitter.split_documents(documents)
+
+
+def semantic_split_documents(documents, settings: AppSettings) -> list:
+    
+    chunker = init_semantic_chunker(settings)
+    return chunker.split_documents(documents)

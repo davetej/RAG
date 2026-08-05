@@ -37,4 +37,13 @@ def load_vectorstore(settings: AppSettings) -> Chroma:
         collection_name=settings.vectorstore_collection_name,
     )
 
+
+
+class MongoDBVectorStore():
+    def __init__(self, settings: AppSettings):
+        self.settings = settings
+
+    
+
+    def 
     

@@ -4,10 +4,10 @@ from pathlib import Path
 from langchain_community.document_loaders import PyMuPDFLoader
 from fileSha import file_sha256, stable_filename
 from uuid import uuid4
-from splitter import split_documents
+from splitter import semantic_split_documents, split_documents
 from vectorStore import create_vectorstore
 
-def processPdf(settings: AppSettings, pdf_name: str):
+def processPdf(settings: AppSettings, pdf_name: str, semantic_chunker: bool = False):
     
 
     # resolve relative paths against the project root, not the shell cwd
@@ -37,7 +37,13 @@ def processPdf(settings: AppSettings, pdf_name: str):
 
     print(f"Loaded {len(documents)} pages from {pdf_file_path}.")
 
-    chunks = split_documents(documents, settings)
+    if semantic_chunker:
+        print("Semantic chunking is enabled. Splitting documents into semantic chunks...")
+        chunks  = semantic_split_documents(documents, settings)
+    else:
+        print("Semantic chunking is disabled. Splitting documents into fixed-size chunks...")    
+
+        chunks = split_documents(documents, settings)
 
     for index, chunk in enumerate(chunks):
         chunk.metadata["chunk_id"] = str(uuid4())
